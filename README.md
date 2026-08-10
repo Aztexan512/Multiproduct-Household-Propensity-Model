@@ -217,6 +217,10 @@ Luciano Casillas
 
 Independent Analytics Consultant | Austin, TX
 
+[![GitHub](https://img.shields.io/badge/GitHub-Luciano--Casillas-lightgrey)](https://github.com/Luciano-Casillas)
+
+<luciano.casillas512@gmail.com>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/luciano-casillas)
 [![GitHub](https://img.shields.io/badge/GitHub-Luciano--Casillas-lightgrey)](https://github.com/Luciano-Casillas)
 
