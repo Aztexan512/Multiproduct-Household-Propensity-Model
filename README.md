@@ -138,7 +138,7 @@ Source table schema: See [data/schema/erd.md](data/schema/erd.md) for the entity
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Aztexan512/Multiproduct-Household-Propensity-Model.git
+git clone https://github.com/Luciano-Casillas/Multiproduct-Household-Propensity-Model.git
 cd Multiproduct-Household-Propensity-Model
 
 # 2. Install dependencies
